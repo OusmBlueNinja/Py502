@@ -1,8 +1,67 @@
 
+filename = "try_to_fix_me.asm"
+
+
+#
+#  Change the filename here to the path of your asm file
+#  then copy the output to 'main.py' and replace the 'program' variable 
+#  with the list, then run the 'main.py' file with python 3.11+
+#
+#  there are 2 example programs, one that demonstrates bitmap mode
+#  and one that demonstrates text mode, with typing useing the bios 
+#  interupts.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
 import re
 from termcolor import colored
 
-filename = "main.asm"
 
 with open(filename,"r") as f:
     lines = f.readlines()
