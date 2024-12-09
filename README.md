@@ -60,7 +60,7 @@ init_graphics_mode:
 
 ## Interupts
 
-
+```
 0x00 -> print register a as char
 0x01 -> print register a as int
 0xFF -> Halt
@@ -99,7 +99,7 @@ init_graphics_mode:
         (B) sector number 
         (C) byte offset
         (D) byte to write
-
+```
 
         
 ## Example error messages for the ASM Compiler
